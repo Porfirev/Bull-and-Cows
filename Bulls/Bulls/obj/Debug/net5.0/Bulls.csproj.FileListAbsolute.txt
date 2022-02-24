@@ -1,0 +1,16 @@
+C:\work\Bulls\Bulls\bin\Debug\net5.0\Bulls.exe
+C:\work\Bulls\Bulls\bin\Debug\net5.0\Bulls.deps.json
+C:\work\Bulls\Bulls\bin\Debug\net5.0\Bulls.runtimeconfig.json
+C:\work\Bulls\Bulls\bin\Debug\net5.0\Bulls.runtimeconfig.dev.json
+C:\work\Bulls\Bulls\bin\Debug\net5.0\Bulls.dll
+C:\work\Bulls\Bulls\bin\Debug\net5.0\ref\Bulls.dll
+C:\work\Bulls\Bulls\bin\Debug\net5.0\Bulls.pdb
+C:\work\Bulls\Bulls\obj\Debug\net5.0\Bulls.csproj.AssemblyReference.cache
+C:\work\Bulls\Bulls\obj\Debug\net5.0\Bulls.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Bulls\Bulls\obj\Debug\net5.0\Bulls.AssemblyInfoInputs.cache
+C:\work\Bulls\Bulls\obj\Debug\net5.0\Bulls.AssemblyInfo.cs
+C:\work\Bulls\Bulls\obj\Debug\net5.0\Bulls.csproj.CoreCompileInputs.cache
+C:\work\Bulls\Bulls\obj\Debug\net5.0\Bulls.dll
+C:\work\Bulls\Bulls\obj\Debug\net5.0\ref\Bulls.dll
+C:\work\Bulls\Bulls\obj\Debug\net5.0\Bulls.pdb
+C:\work\Bulls\Bulls\obj\Debug\net5.0\Bulls.genruntimeconfig.cache
